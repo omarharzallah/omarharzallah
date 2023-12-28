@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 📝 I regularly write articles on [Blockchains](Blockchains)
+- 📝 I regularly write articles on Blockchains
 
 - 📫 How to reach me **omarharzallah27@gmail.com**
 
